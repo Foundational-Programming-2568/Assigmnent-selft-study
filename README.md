@@ -1,4 +1,4 @@
-# Assigmnent-selft-study OOP
+# Assignment-selft-study OOP
 
 ## ให้นักศึกษา ค้นคว้าความรู้ โดยใช้ AI เช่น Gemini, ChatGPT, Copilot  ในประเด็นต่อไปนี้
 1. Encapsukation
