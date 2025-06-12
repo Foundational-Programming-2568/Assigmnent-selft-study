@@ -4,6 +4,7 @@
 1. Encapsukation
 2. Inheritance
 3. Polymorphism
+4. Abstraction
 
 โดยเขียนอธิบายสรุปจากที่ AI ตอบมา ตามที่เข้าใจในภาษาคำพูดของตนเอง
 
